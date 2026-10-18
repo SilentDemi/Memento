@@ -1,0 +1,16 @@
+{
+  "id": "memento-app",
+  "name": "Memento",
+  "short_name": "Memento",
+  "description": "Things to remember: tasks and routines.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#18211a",
+  "theme_color": "#18211a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
